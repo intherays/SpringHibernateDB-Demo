@@ -1,0 +1,1 @@
+Welcome to Spring-Hibernate-CRUD-Demo : <a href="customer/custlist">click here</a> view list
